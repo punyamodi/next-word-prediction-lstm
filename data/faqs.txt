@@ -1,0 +1,141 @@
+About the Program
+What is the course fee for Data Science Mentorship Program DSMP 2023
+The course follows a monthly subscription model where you have to make monthly payments of Rs 799 per month.
+What is the total duration of the course?
+The total duration of the course is 7 months so the total course fee becomes approximately Rs 5600.
+What is the syllabus of the mentorship program?
+We will be covering the following modules Python Fundamentals Python libraries for Data Science Data Analysis SQL for Data Science Maths for Machine Learning ML Algorithms Practical ML MLOps and Case studies.
+Will Deep Learning and NLP be a part of this program?
+No NLP and Deep Learning both are not a part of this program curriculum.
+What if I miss a live session will I get a recording of the session?
+Yes all our sessions are recorded so even if you miss a session you can go back and watch the recording.
+Where can I find the class schedule?
+Checkout the google sheet to see month by month timetable of the course.
+What is the time duration of all the live sessions?
+Roughly all the sessions last 2 hours.
+What is the language spoken by the instructor during the sessions?
+The instructor speaks in Hinglish which is a mix of Hindi and English.
+How will I be informed about the upcoming class?
+You will get a mail from our side before every paid session once you become a paid user.
+Can I do this course if I am from a non tech background?
+Yes absolutely anyone from any background can do this course.
+I am late can I join the program in the middle?
+Absolutely you can join the program anytime you want.
+If I join or pay in the middle will I be able to see all the past lectures?
+Yes once you make the payment you will be able to see all the past content in your dashboard.
+Where do I have to submit the task?
+You do not have to submit the task we will provide you with the solutions and you have to self evaluate.
+Will we do case studies in the program?
+Yes case studies are an important part of the program.
+Where can we contact you?
+You can mail us at our official email address provided on the website.
+Payment and Registration related questions
+Where do we have to make our payments?
+You have to make all your monthly payments on our website.
+Can we pay the entire amount all at once?
+Unfortunately no the program follows a monthly subscription model.
+What is the validity of monthly subscription?
+The validity period is 30 days from the day you make the payment.
+What if I do not like the course after making the payment?
+You get a 7 days refund period from the day you have made the payment.
+I am living outside India and I am not able to make the payment on the website what should I do?
+You have to contact us by sending a mail at our official email address.
+Post registration queries
+Till when can I view the paid videos on the website?
+You can watch the videos till your subscription is valid.
+Why lifetime validity is not provided?
+Because of the low course fee lifetime validity is not provided.
+Where can I reach out in case of a doubt after the session?
+You will have to fill a google form provided in your dashboard and our team will contact you for a doubt clearance session.
+If I join the program late can I still ask past doubts?
+Yes absolutely but the responses will be slower as compared to new doubts.
+What if I am not able to attend the live session will my doubt be answered?
+Of course we will make sure all your doubts are answered in the next available session.
+What do I need to have to attend this program?
+A laptop or a PC with a stable internet connection is all you need.
+Can I attend this program if I am a school student?
+Absolutely a school student with an interest in data science can attend the program.
+Is this program designed for beginners?
+Yes the program is designed for complete beginners in data science and machine learning.
+What prior knowledge is required for this program?
+No prior knowledge is required we will start from the very basics of Python and mathematics.
+What if I want to cancel the subscription?
+You can cancel the subscription anytime you want there is no forced commitment.
+Will I get a certificate after completing the program?
+Yes you will get a certificate after completing the program successfully.
+Is the program live or recorded?
+The program is live but the recordings will also be made available to all paid subscribers.
+How many students are currently enrolled in the program?
+We have thousands of students enrolled in the program from all over India.
+What are the prerequisites for machine learning?
+To learn machine learning you need to know Python programming and basic mathematics including linear algebra and statistics.
+How long does it take to learn data science?
+Learning data science typically takes around 6 to 12 months with consistent practice and dedication.
+What is the difference between machine learning and deep learning?
+Machine learning uses traditional algorithms to learn from data while deep learning uses neural networks with many layers.
+What is Python used for in data science?
+Python is used for data analysis data visualization building machine learning models and deploying applications.
+What is a neural network?
+A neural network is a computational model inspired by the human brain that learns patterns from data through training.
+What is supervised learning?
+Supervised learning is a type of machine learning where the model learns from labeled training data to make predictions.
+What is unsupervised learning?
+Unsupervised learning is a type of machine learning where the model finds patterns in data without labeled examples.
+What is overfitting in machine learning?
+Overfitting occurs when a model learns the training data too well and fails to generalize to new unseen data.
+How do you prevent overfitting?
+You can prevent overfitting by using regularization techniques dropout cross validation and collecting more training data.
+What is a decision tree?
+A decision tree is a machine learning algorithm that makes decisions by splitting data based on feature values.
+What is the difference between classification and regression?
+Classification predicts discrete categories while regression predicts continuous numerical values.
+What is a confusion matrix?
+A confusion matrix is a table used to evaluate the performance of a classification model showing true and false predictions.
+What is cross validation?
+Cross validation is a technique to evaluate machine learning models by training and testing on different subsets of the data.
+What is gradient descent?
+Gradient descent is an optimization algorithm that minimizes the loss function by iteratively updating model parameters.
+What is the learning rate in machine learning?
+The learning rate is a hyperparameter that controls how much the model weights are updated during each training step.
+What is feature engineering?
+Feature engineering is the process of creating new features from raw data to improve the performance of machine learning models.
+What is natural language processing?
+Natural language processing is a branch of artificial intelligence that enables computers to understand and generate human language.
+What is transfer learning?
+Transfer learning is a technique where a model trained on one task is reused as the starting point for a different related task.
+What is the LSTM network?
+LSTM stands for Long Short Term Memory and it is a type of recurrent neural network designed to learn from sequential data.
+How does text generation work?
+Text generation works by training a model on a corpus of text and then predicting the most likely next word given an input sequence.
+What is tokenization?
+Tokenization is the process of converting text into individual tokens such as words or characters for processing by a model.
+What is word embedding?
+Word embedding is a representation of words as dense numerical vectors that capture semantic relationships between words.
+What is the softmax function?
+The softmax function converts a vector of raw scores into a probability distribution over multiple classes.
+What is categorical cross entropy?
+Categorical cross entropy is a loss function used for multi class classification problems that measures prediction error.
+What is an epoch in machine learning?
+An epoch is one complete pass through the entire training dataset during the model training process.
+What is batch size?
+Batch size is the number of training samples processed before the model weights are updated during training.
+What is the Adam optimizer?
+Adam is an adaptive learning rate optimization algorithm that combines the benefits of gradient descent with momentum.
+How do you save a machine learning model?
+You can save a machine learning model using frameworks like TensorFlow Keras by calling the save method on the model object.
+What is model inference?
+Model inference is the process of using a trained machine learning model to make predictions on new input data.
+What is a vocabulary in NLP?
+A vocabulary in NLP is the set of unique words or tokens that the model knows and can process from the training data.
+What is sequence padding?
+Sequence padding is the process of adding zeros or special tokens to sequences to make them all the same length for batch processing.
+How does autocomplete work?
+Autocomplete works by using a trained language model to predict the most likely next word given the words already typed by the user.
+What is beam search?
+Beam search is a decoding algorithm that explores multiple possible continuations simultaneously to find the best sequence.
+What is greedy decoding?
+Greedy decoding selects the most probable token at each step without considering future tokens in the sequence.
+What is temperature in text generation?
+Temperature is a parameter that controls the randomness of predictions with lower values making output more deterministic.
+What is top k sampling?
+Top k sampling selects the next token randomly from the top k most probable tokens to add diversity to generated text.
