@@ -64,8 +64,8 @@ Autofill-using-ML/
 ## Installation
 
 ```bash
-git clone https://github.com/punyamodi/Autofill-using-ML.git
-cd Autofill-using-ML
+git clone https://github.com/punyamodi/next-word-prediction-lstm.git
+cd next-word-prediction-lstm
 pip install -r requirements.txt
 ```
 
